@@ -1,0 +1,34 @@
+html
+body{
+  margin:0;
+  text-align:center;
+  line-height: 1.5;
+  font-size: 100%;
+  display: table;
+}
+
+body{
+  background: url(assets/freedom.jpg) center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vw;
+  color: #333;
+}
+
+.wrapper{
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 3rem;
+  
+}
+
+.main{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+}
+
+.other{
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;
+}
